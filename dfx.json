@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "front_rust": {
+      "source": ["dist"],
+      "type": "assets"
+    }
+  }
+}
