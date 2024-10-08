@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "trunk build"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.13"
   }
